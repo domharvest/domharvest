@@ -57,9 +57,10 @@ PostgreSQL • MongoDB • Redis
 
 💼 **Available for freelance projects and remote opportunities**
 
-- 🌐 **Upwork:** https://www.upwork.com/freelancers/~01078f41febd68ab32
+- 🐘 **Mastodon:** [@domharvest@infosec.exchange](https://infosec.exchange/@domharvest)
+- 🌐 **Upwork:** [upwork.com/freelancers/~01078f41febd68ab32](https://www.upwork.com/freelancers/~01078f41febd68ab32)
 - 📧 **Email:** max.yterb@gmail.com
-- 📦 **npm:** https://www.npmjs.com/package/domharvest-playwright
+- 📦 **npm:** [npmjs.com/~domharvest](https://www.npmjs.com/~domharvest)
 
 ---
 
