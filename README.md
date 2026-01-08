@@ -60,7 +60,7 @@ PostgreSQL • MongoDB • Redis
 - 🐘 **Mastodon:** [@domharvest@infosec.exchange](https://infosec.exchange/@domharvest)
 - 🌐 **Upwork:** [upwork.com/freelancers/~01078f41febd68ab32](https://www.upwork.com/freelancers/~01078f41febd68ab32)
 - 📧 **Email:** max.yterb@gmail.com
-- 📦 **npm:** [npmjs.com/~domharvest](https://www.npmjs.com/~domharvest)
+- 📦 **npm:** [https://www.npmjs.com/package/domharvest-playwright](https://www.npmjs.com/package/domharvest-playwright)
 
 ---
 
