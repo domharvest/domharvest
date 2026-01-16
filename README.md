@@ -1,5 +1,4 @@
 # Hi, I'm Max 👋
-
 **Web Scraping & Automation Specialist** building reliable, production-ready data extraction tools.
 
 I help businesses automate web data collection with clean, maintainable code and ethical scraping practices.
@@ -24,7 +23,7 @@ A powerful DOM harvesting tool built with Playwright for extracting and analyzin
 - 🔧 Configurable selectors and filters
 - 🎨 Multiple export formats
 
-[📚 Documentation](https://domharvest.github.io/domharvest-playwright/) • [🚀 Quick Start](https://domharvest.github.io/domharvest-playwright/guide/quick-start) • [📖 API Reference](https://domharvest.github.io/domharvest-playwright/api/harvester)
+[📚 Documentation](https://domharvest.dev) • [🚀 Quick Start](https://domharvest.dev/guide/quick-start) • [📖 API Reference](https://domharvest.dev/api/harvester) • [📝 Blog](https://blog.domharvest.dev)
 
 ---
 
@@ -39,16 +38,16 @@ A powerful DOM harvesting tool built with Playwright for extracting and analyzin
 
 ## 💻 Tech Stack
 
-**Languages & Runtime:**  
+**Languages & Runtime:**
 JavaScript • Node.js • Python
 
-**Scraping & Automation:**  
+**Scraping & Automation:**
 Playwright • Puppeteer • Cheerio • Selenium
 
-**Development:**  
+**Development:**
 Git • GitHub Actions • npm • StandardJS
 
-**Databases & Storage:**  
+**Databases & Storage:**
 PostgreSQL • MongoDB • Redis
 
 ---
@@ -57,10 +56,11 @@ PostgreSQL • MongoDB • Redis
 
 💼 **Available for freelance projects and remote opportunities**
 
+- 🐦 **Twitter:** [@domharvest_dev](https://twitter.com/domharvest_dev)
 - 🐘 **Mastodon:** [@domharvest@infosec.exchange](https://infosec.exchange/@domharvest)
 - 🌐 **Upwork:** [upwork.com/freelancers/~01078f41febd68ab32](https://www.upwork.com/freelancers/~01078f41febd68ab32)
-- 📧 **Email:** max.yterb@gmail.com
-- 📦 **npm:** [https://www.npmjs.com/package/domharvest-playwright](https://www.npmjs.com/package/domharvest-playwright)
+- 📧 **Email:** max@domharvest.dev
+- 📦 **npm:** [domharvest-playwright](https://www.npmjs.com/package/domharvest-playwright)
 
 ---
 
